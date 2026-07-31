@@ -1,0 +1,6 @@
+{
+  "name": "Veridion AI Verification Platform",
+  "description": "AI Evidence & Blockchain Verification Platform with autonomous claim checking, Merkle tree proofs, and evidence sources management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
